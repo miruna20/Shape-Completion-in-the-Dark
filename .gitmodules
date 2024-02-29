@@ -1,0 +1,6 @@
+[submodule "MVP_Benchmark"]
+	path = MVP_Benchmark
+	url = https://github.com/miruna20/MVP_Benchmark
+[submodule "DataGeneration_VertShapeCompletion"]
+	path = DataGeneration_VertShapeCompletion
+	url = https://github.com/miruna20/DataGeneration_VertShapeCompletion
